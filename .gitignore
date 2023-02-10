@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/FSC
+/bin/Debug/net7.0
+/obj/Debug/net7.0
+/obj
+/Properties
